@@ -1,18 +1,14 @@
 <?php
 
 
-namespace c006\paypal_ipn;
+namespace stratoss\paypal_ipn;
 
 use Yii;
 
-/**
- * Class PayPalIpn
- * @package c006\paypal_ipn
- */
 
 /**
  * Class PayPal_Ipn
- * @package c006\paypal_ipn
+ * @package stratoss\paypal_ipn
  */
 class PayPal_Ipn
 {

@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-source "c006/yii2-paypal-ipn" "dev-master"
+php composer.phar require --prefer-source "stratoss/yii2-paypal-ipn" "dev-master"
 ```
 
 or add
 
 ```
-"c006/yii2-paypal-ipn": "dev-master"
+"stratoss/yii2-paypal-ipn": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
@@ -49,7 +49,7 @@ Updates
 
 Contributors
 -----------
-
+[c006](https://github.com/c006)
 
 
 Comments / Suggestions
